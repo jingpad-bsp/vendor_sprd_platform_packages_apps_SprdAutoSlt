@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SLT</string>
+    <string name="slt_power_tips">Slt服務已成功啓動!</string>
+    <string name="camera_takepicture_tips">相機測試完成!</string>
+    <string name="camera_video_tips">錄像測試完成!</string>
+    <string name="camera_takepicture_fail_tips">相機調用失敗!</string>
+    <string name="slt_test_start">啓動服務,開始測試</string>
+    <string name="slt_test_play_video">播放視頻測試</string>
+    <string name="slt_test_recording_video">錄製視頻測試</string>
+    <string name="slt_test_take_picture">拍照測試</string>
+    <string name="muti_touchpoint_info">請通過兩點觸摸同時移動兩個小球</string>
+    <string name="text_pass">通過</string>
+
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AutoSLT</string>
+    <string name="action_settings">settings</string>
+    <string name="pref_entry_value_on" translatable="false">On</string>
+    <string name="back_camera_title_text">Back Camera Test</string>
+    <string name="camera_test_title">Camera</string>
+    <string name="slt_test_start" translatable="false">Start Service and test.</string>
+    <string name="slt_test_play_video" translatable="false">Play video test</string>
+    <string name="slt_test_recording_video" translatable="false">Recording video test</string>
+    <string name="slt_test_take_picture" translatable="false">Take photograph test</string>
+    <string name="camera_test_result_check">Whether displayed the camera screen and flash(if exist)?</string>
+    <string name="slt_power_tips" translatable="false">Phone Settings screen lit </string>
+    <string name="camera_takepicture_tips" translatable="false">Camera test has been completed!</string>
+    <string name="camera_video_tips" translatable="false">Recording video test has been completed!</string>
+    <string name="camera_takepicture_fail_tips" translatable="false">Camera test has failed!</string>
+    <string name="has_no_simcard">has no sim card</string>
+    <string name="has_no_lte">do not support lte</string>
+    <string name="set_feature_fail">Switch Fail</string>
+    <string name="set_feature_success">Switch success</string>
+    <string name="switch_modem_fail">switch modem fail</string>
+    <string name="has_no_monkey_file" translatable="false">has no monkey file</string>
+    <string name="getresult">Get Result</string>
+    <string name="manual_test">Manual Test</string>
+    <string name="autoslt_quit">Quit</string>
+    <string name="clear_result">Clear Result</string>
+    <string name="clear_log">Clear Logs</string>
+    <string name="test_result">Test Result</string>
+    <string name="log">Log</string>
+    <string name="test_result_title">SLT Test Result</string>
+    <string name="test_result_ID_title">ID</string>
+    <string name="test_result_case_title">Test Case</string>
+    <string name="test_result_result_title">Result</string>
+    <string name="test_result_note_title">Note</string>
+    <string name="code">QRCode</string>
+    <string name="test_result_station_title">Station</string>
+    <string name="sn">SN:</string>
+    <string name="boot_start_activity">App auto run after boot</string>
+	<string name="test_version">V1.0.25</string>
+    <string name="factory_reset">Factory Reset</string>
+    <string name="reset">Reset</string>
+    <string name="factory_reset_message">This oprate will erase phone data!</string>
+    <string name="muti_touchpoint_info" translatable="false">Move two balls simultaneously by two touch</string>
+    <string name="text_pass" translatable="false">Pass</string>
+    <string name="text_fail">Fail</string>
+    <string name="secondary_msg_text">Open Secondary camera?</string>
+	<string name="finger_print_test">Fingerprint Test</string>
+    <string name="finger_print_init">Initing fingerprint sensor, please wait</string>
+    <string name="finger_detect">start finger detect</string>
+    <string name="finger_print_init_fail">Init fail</string>
+    <string name="finger_print_tips">Init success, please put your finger on the fingerprint sensor.</string>
+    <string name="have_a_finger">have a finger</string>
+    <string name="no_finger">no finger</string>
+
+	<string name="layout_weight_0">2</string>
+    <string name="layout_weight_1">6</string>
+    <string name="fingerprint_testing">Fingerprint testing</string>
+    <string name="otg_testing">OTG testing</string>
+    <string name="exit_app_text">Press one more time to exit</string>
+    <string name="rtc_testing">RTC testing</string>
+</resources>

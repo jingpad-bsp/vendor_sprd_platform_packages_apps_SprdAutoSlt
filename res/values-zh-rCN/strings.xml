@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SLT</string>
+    <string name="slt_power_tips">Slt服务已成功启动!</string>
+    <string name="camera_takepicture_tips">相机测试完成!</string>
+    <string name="camera_video_tips">录像测试完成!</string>
+    <string name="camera_takepicture_fail_tips">相机调用失败!</string>
+    <string name="slt_test_start">启动服务,开始测试</string>
+    <string name="slt_test_play_video">播放视频测试</string>
+    <string name="slt_test_recording_video">录制视频测试</string>
+    <string name="slt_test_take_picture">拍照测试</string>
+    <string name="has_no_monkey_file">无monkey脚本</string>
+    <string name="muti_touchpoint_info">请通过两点触摸同时移动两个小球</string>
+    <string name="text_pass">通过</string>
+
+    <string name="fingerprint_testing">指纹测试中...</string>
+    <string name="otg_testing">OTG 测试中...</string>
+    <string name="exit_app_text">再按一次退出应用</string>
+    <string name="rtc_testing">RTC 测试中</string>
+</resources>
